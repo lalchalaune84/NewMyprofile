@@ -143,3 +143,33 @@ text-align: justify;
   text-align: center;
   color: whitesmoke;
 }
+.contact_me{
+  display: inline;
+  margin-top: 30px;
+  
+
+}
+#pInfo{
+  width: 40%;
+  height: 200px;
+background-color: #f4501e79;
+
+float: left;
+}
+#ContactForm{
+  width: 60%;
+  height: 200px;
+  background-color: rgba(245, 245, 220, 0.452);
+  float: left;
+  
+}
+#ContactForm{
+  text-align: center;
+  color: white;
+}
+/* #vline{
+  width: px;
+  border-right: 2px solid;
+  border-color: chartreuse;
+  float: left;
+} */
